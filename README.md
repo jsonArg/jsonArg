@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @jsonArg Iason Argyrakis 
+- 👋 Hi, I’m @jsonArg Iason Argyrakis.
 - 📫 How to reach me [iargyrakis@epignosishq.com](mailto:iargyrakis@epignosishq.com)
 
 <!---
