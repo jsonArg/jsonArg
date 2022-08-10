@@ -1,5 +1,5 @@
-- 👋 Hi, I’m @jsonArg Iason Argyrakis.
-- 💻 This is my professional Profile. [My Personal Portfolio](https://github.com/IasonArgyrakis)
+- 👋 Hi, I’m @jsonArg Iason Argyrakis This is my Work Profile.
+- 💻 [My Personal Portfolio](https://github.com/IasonArgyrakis)
 - 📫 How to reach me [iargyrakis@epignosishq.com](mailto:iargyrakis@epignosishq.com)
 
 <!---
