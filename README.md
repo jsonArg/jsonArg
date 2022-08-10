@@ -1,4 +1,4 @@
-# Hello Stranger and Welcome to my profile
+# Hello Stranger and Welcome to My Profile
 - 👋 I’m @jsonArg Iason Argyrakis.
 - 💻 [My Personal Portfolio](https://github.com/IasonArgyrakis)
 - 📫 How to reach me [iargyrakis@epignosishq.com](mailto:iargyrakis@epignosishq.com)
